@@ -1,0 +1,2 @@
+India( Dhawan, Vijay, Sachin, Sehwag, Gambhir, Yuvraj, Kohli, Jadeja, Zaheer, Kumble, Harbhajan)
+Australia( Ponting, Hussey, Gilchrist, Hayden, Clarke, Gillespe, Lee, Haddin, Johnson, Warne, Tait)

@@ -1,0 +1,28 @@
+Australia
+Ponting, 2,0,OUT,2
+Hussey, 0,OUT,0
+Gilchrist, OUT,0
+Hayden, 2,OUT,2
+Gillespe, OUT,0
+Brett Lee, 4,0,2,3,OUT,9
+Haddin, 6,4,OUT,10
+Johnson, 3,OUT,3
+Shane Warne, 0,6,NOT OUT,6
+Clarke, 0,4,OUT,4
+Shaun Tait, OUT,0
+Total,36
+
+
+India
+Varun, 2,OUT,2
+Sandeep, OUT,0
+Sachin, 0,2,6,0,3,OUT,11
+Sehwag, 2,6,6,OUT,14
+Gambhir, 3,1,2,NOT OUT,6
+Yuvraj, 0,OUT,0
+Kohli, 4,0,2,NOT OUT,6
+Total,39
+
+
+India WINS
+MOM, India, Sehwag

@@ -1,0 +1,28 @@
+India
+Dhawan, 6,OUT,6
+Vijay, 1,OUT,1
+Sachin, 0,2,4,6,OUT,12
+Sehwag, 6,4,6,1,1,1,1,NOT OUT,20
+Gambhir, 4,6,OUT,10
+Yuvraj, 2,0,OUT,2
+Kohli, 2,0,6,0,1,6,3,1,3,6,0,OUT,28
+Jadeja, OUT,0
+Zaheer, OUT,0
+Kumble, 3,2,0,OUT,5
+Harbhajan, 6,6,2,OUT,14
+Total,98
+Australia
+Ponting, 1,OUT,1
+Hussey, 0,1,OUT,1
+Gilchrist, 1,4,OUT,5
+Hayden, 4,4,1,1,1,OUT,11
+Clarke, OUT,0
+Gillespe, 0,6,4,0,2,6,3,OUT,21
+Lee, 4,4,6,4,OUT,18
+Haddin, 4,4,2,4,OUT,14
+Johnson, 0,2,6,0,3,OUT,11
+Warne, 0,0,1,OUT,1
+Tait, 2,3,NOT OUT,5
+Total,88
+India WINS
+MOM, India, Kohli
